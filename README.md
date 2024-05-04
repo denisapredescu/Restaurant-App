@@ -1,3 +1,16 @@
+This is a simple Laravel project made in learning stage at Adore Me Company, Bucharest, Romania. 
+
+
+The scope of this project is to learn Laravel:
+- api routing
+- db connection and interaction
+- create migrations
+- interact with Postman
+- create PHP custom exceptions
+- Laravel parameters validation
+- Laravel blockers
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
